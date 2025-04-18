@@ -24,7 +24,7 @@ A **magical bridge** between sign language and spoken words! This real-time AI s
 
 ## 🛠️ Tech Wizardry
 
-| Component          | Magic Spell (Tech Used)       |
+| Component          | Tech Used                     |
 |--------------------|-------------------------------|
 | Vision             | OpenCV + MediaPipe Hands      |
 | Intelligence       | Scikit-learn Random Forest    |
